@@ -53,7 +53,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## View a live version of this example
 
-* []()
+* [URL Kanban project](https://fastidious-dusk-f79204.netlify.app/)
 
 ## hiring 👍
 
